@@ -26,13 +26,17 @@ Content/MODERN_LUXURY_SOFA_2/LEVELS/SOFA2.umap
 
 蓝图在鼠标命中 Actor 后调用 **Highlight Actor Outline**。节点把命中的 Actor 作为目标，并将轮廓颜色设为红色；线宽使用节点默认值。
 
-> **截图待补充：** SOFA2 Level Blueprint 中的命中检测与高亮节点。
+> SOFA2 Level Blueprint 中的命中检测与高亮节点。
+> <img width="1928" height="1040" alt="image" src="https://github.com/user-attachments/assets/13b0b3ab-fa39-47be-ab1b-1d52e637ac48" />
+
 
 ## 运行效果
 
 运行 SOFA2 关卡并触发蓝图中的命中检测后，被命中的 Actor 会显示红色轮廓。切换目标时插件会恢复上一个 Actor 的 Custom Depth/Stencil 状态。
 
-> **截图待补充：** SOFA2 运行时红色轮廓效果。
+> SOFA2 运行时红色轮廓效果。
+> <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/4f8bd625-071c-448c-b8ac-01306ff794b2" />
+
 
 ## 插件设置
 
