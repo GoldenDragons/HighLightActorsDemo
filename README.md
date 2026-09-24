@@ -34,7 +34,8 @@ The Blueprint traces under the mouse cursor and calls **Highlight Actor Outline*
 
 Run the SOFA2 map and trigger the hit test to see a red outline on the hit actor. When the target changes, the plugin restores the previous actor's Custom Depth/Stencil state.
 
-<img width="1920" height="1032" alt="SOFA2 runtime red outline" src="https://github.com/user-attachments/assets/4f8bd625-071c-448c-b8ac-01306ff794b2" />
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/46c73c89-8d99-4eb1-b3fc-22a061e2e7fa" />
+
 
 ## Plugin Settings
 
