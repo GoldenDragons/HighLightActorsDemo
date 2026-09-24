@@ -1,0 +1,25 @@
+# Unreal generated output
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.omx/
+
+# IDE files
+.vs/
+.idea/
+.vscode/
+*.sln
+*.slnx
+*.VC.db
+*.sdf
+*.opensdf
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store

@@ -1,0 +1,3 @@
+[submodule "Plugins/HighLightActors"]
+	path = Plugins/HighLightActors
+	url = https://github.com/GoldenDragons/HighLightActors.git
